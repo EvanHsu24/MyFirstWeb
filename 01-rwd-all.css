@@ -23,7 +23,7 @@ main{
     height: 150px;
     margin: auto;
     margin-bottom: 60px;
-    background-image: url('../img/AKHEILOS/AKHEILOSLogo03.png');
+    background-image: url('./img/AKHEILOS/AKHEILOSLogo03.png');
     background-size: contain;
 }
 .links{
@@ -54,34 +54,34 @@ a{
     float: left;
 }
 .x{
-    background-image: url('../img/AKHEILOS/img01.jpg');
+    background-image: url('./img/AKHEILOS/img01.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .x:hover{
-    background-image: url('../img/AKHEILOS/img01.jpg');
+    background-image: url('./img/AKHEILOS/img01.jpg');
     background-position: center;
 }
 .y{
-    background-image: url('../img/AKHEILOS/img02.jpg');
+    background-image: url('./img/AKHEILOS/img02.jpg');
     margin: 0px 5px;
     background-position: center;
     background-size: cover;
 }
 .y:hover{
-    background-image: url('../img/AKHEILOS/img02.jpg');
+    background-image: url('./img/AKHEILOS/img02.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .z{
-    background-image: url('../img/AKHEILOS/img03.jpg');
+    background-image: url('./img/AKHEILOS/img03.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .z:hover{
-    background-image: url('../img/AKHEILOS/img03.jpg');
+    background-image: url('./img/AKHEILOS/img03.jpg');
     background-position: center;
 }
 @media (max-width:1400px){
@@ -109,7 +109,7 @@ a{
         height: 150px;
         margin: auto;
         margin-bottom: 60px;
-        background-image: url('../img/AKHEILOS/AKHEILOSLogo03.png');
+        background-image: url('./img/AKHEILOS/AKHEILOSLogo03.png');
         background-size: contain;
     }
     .links{
@@ -136,20 +136,20 @@ a{
     .container .x{
         width: 800px;
         height: 284px;
-        background-image: url('../img/AKHEILOS/img01.jpg');
+        background-image: url('./img/AKHEILOS/img01.jpg');
         background-position: 50% 30%;
         background-size: cover;
         background-repeat: no-repeat;
         margin-bottom: 10px;
     }
     .x:hover{
-        background-image: url('../img/AKHEILOS/img01.jpg');
+        background-image: url('./img/AKHEILOS/img01.jpg');
         background-position: center;
     }
     .container .y{
         width: 395px;
         height: 276px;
-        background-image: url('../img/AKHEILOS/img02.jpg');
+        background-image: url('./img/AKHEILOS/img02.jpg');
         background-position: center;
         background-size: cover;
         float: left;
@@ -157,21 +157,21 @@ a{
         margin: unset;
     }
     .y:hover{
-        background-image: url('../img/AKHEILOS/img02.jpg');
+        background-image: url('./img/AKHEILOS/img02.jpg');
         background-size: cover;
         background-repeat: no-repeat;
     }
     .container .z{
         width: 395px;
         height: 276px;
-        background-image: url('../img/AKHEILOS/img03.jpg');
+        background-image: url('./img/AKHEILOS/img03.jpg');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         float: right;
     }
     .z:hover{
-        background-image: url('../img/AKHEILOS/img03.jpg');
+        background-image: url('./img/AKHEILOS/img03.jpg');
         background-position: center;
     }
 }
@@ -191,7 +191,7 @@ a{
     .logo{
         width: 80px;
         height: 80px;
-        background-image: url('../img/AKHEILOS/AKHEILOSLogo03.png');
+        background-image: url('./img/AKHEILOS/AKHEILOSLogo03.png');
         background-size: contain;
         float: left;
         margin: 0px;
@@ -231,7 +231,7 @@ a{
         background-color: aqua;
         float: left;
         margin-bottom: 10px;
-        background-image: url('../img/AKHEILOS/img01.jpg');
+        background-image: url('./img/AKHEILOS/img01.jpg');
         background-position: 50% 20%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -242,7 +242,7 @@ a{
         background-color: aqua;
         float: left;
         margin-right: 10px;
-        background-image: url('../img/AKHEILOS/img02.jpg');
+        background-image: url('./img/AKHEILOS/img02.jpg');
         background-position: center;
         background-size: cover;
     }
@@ -251,7 +251,7 @@ a{
         height: calc(50% - 5px);
         background-color: aqua;
         float: right;
-        background-image: url('../img/AKHEILOS/img03.jpg');
+        background-image: url('./img/AKHEILOS/img03.jpg');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -273,7 +273,7 @@ a{
     .logo{
         width: 55px;
         height: 55px;
-        background-image: url('../img/AKHEILOS/AKHEILOSLogo03.png');
+        background-image: url('./img/AKHEILOS/AKHEILOSLogo03.png');
         background-size: contain;
         position: absolute;
         top: calc(50% - calc(55px / 2));
@@ -312,7 +312,7 @@ a{
     .container .x{
         width: 100%;
         height: calc(587px / 3);
-        background-image: url('../img/AKHEILOS/img01.jpg');
+        background-image: url('./img/AKHEILOS/img01.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 20% 50%;
@@ -322,7 +322,7 @@ a{
     .container .y{
         width: 100%;
         height: calc(587px / 3);
-        background-image: url('../img/AKHEILOS/img02.jpg');
+        background-image: url('./img/AKHEILOS/img02.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 80% 50%;
@@ -331,7 +331,7 @@ a{
     .container .z{
         width: 100%;
         height: calc(587px / 3);
-        background-image: url('../img/AKHEILOS/img03.jpg');
+        background-image: url('./img/AKHEILOS/img03.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 20% 50%;
